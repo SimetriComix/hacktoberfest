@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Luke Simetricomix](https://github.com/simetricomix)
+- Place: California, US
+- Bio: Starting to learn how to code!
+- Github: [Simetri Comix](https://github.com/simetricomix)
