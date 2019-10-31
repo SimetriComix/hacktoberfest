@@ -11,4 +11,4 @@ Fullerton, CA, US
 
 ### Profile Link
 
-[Luke Simetricomix](https://github.com/simetricomix)
+[Luke Simetricomix] (https://github.com/simetricomix)
